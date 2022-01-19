@@ -1,3 +1,3 @@
 # hello-world
-my first repository
+My first repository
 My name is Joey Fox.
